@@ -5,7 +5,7 @@
 
 - 🌱 I love to build highly interactive and responsive cutting edge technologies and softwares...
 
-- 😄 I am interested in JavaScript,python and Flutter and their frameworks
+- 😄 I am interested in JavaScript,python Flutter and their frameworks
 
 - 🤔 I’m currently learning Blockchain technology and cyber security...
 
