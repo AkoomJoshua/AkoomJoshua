@@ -3,7 +3,7 @@
 
 - 🔭 I am Joshua Akoom, a Software Develooper, Product Tester and Techprenuer
 
-- 🌱 I love to build highly interactive and responsive cutting edge products and softwares...
+- 🌱 I love to build highly interactive and responsive cutting edge products and solutions...
 
 - 😄 I am interested in JavaScript,python Flutter and their frameworks
 
